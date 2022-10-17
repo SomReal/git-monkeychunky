@@ -3,6 +3,7 @@ import {
   Text,
   View,
   StyleSheet,
+
   TextInput,
   TouchableOpacity,
   Image,
@@ -95,6 +96,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     padding: 10,
     margin: 10,
+    borderRadius:10
   },
   buttonText: {
     textAlign: 'center',
